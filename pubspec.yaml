@@ -1,7 +1,7 @@
 name: flutter_responsive_extension
 description: Flutter extensionized responsiveness
 version: 0.0.1
-homepage:
+homepage: https://github.com/DewminaUdayashan/flutter_responsive_extension
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
